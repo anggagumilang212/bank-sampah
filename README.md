@@ -6,11 +6,7 @@
    ```bash
    git clone https://github.com/anggagumilang212/bank-sampah.git
    ```
-1. Jika Error  :
-
-   ```bash
- composer update
-   ```
+1. Jika Error  :composer update
 
 
 ## Penggunaan
@@ -32,14 +28,8 @@
 
 ## Masuk Sebagai Admin
 1. Akses ke Url http://localhost:8000/login
-2. email :
-   ```bash
-  admin@gmail.com
-   ```
-3. Password:
-   ```bash
-   admin
-   ```
+2. email :admin@gmail.com
+3. Password :admin
 
 ## Peringatan
 Mohon  Gambar Di Update Terlebih Dahulu Agar Tampil Karena menggunakan Seeder Gambar jadi tidak tampil.
