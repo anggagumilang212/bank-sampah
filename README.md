@@ -19,12 +19,16 @@
    ```bash
    php artisan db:seed
    ```
-4. Jalankan server:
+4. Jalankan Laravel:
    ```bash
    php artisan serve
    ```
+5. Jalankan Tailwind Css:
+   ```bash
+   npm run dev
+   ```
 
-5. Akses aplikasi di browser Anda di http://localhost:8000.
+6. Akses aplikasi di browser Anda di http://localhost:8000.
 
 ## Masuk Sebagai Admin
 1. Akses ke Url http://localhost:8000/login
